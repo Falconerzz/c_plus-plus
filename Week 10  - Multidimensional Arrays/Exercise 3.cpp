@@ -7,7 +7,7 @@ int main() {
     int n, m, p;
     cin >> n >> m >> p;
 
-    string name[10][10][10]; // เพิ่มขนาดของอาร์เรย์
+    string name[10][10][10];
 
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < m; ++j) {
