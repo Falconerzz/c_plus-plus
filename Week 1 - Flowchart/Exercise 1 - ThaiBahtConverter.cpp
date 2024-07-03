@@ -14,6 +14,7 @@ int main() {
     eUR = tHB * 0.0256;
     gBP = tHB * 0.0224;
     cNY = tHB * 0.1998;
+	
     cout << uSD << " USD" << endl;
     cout << jPY << " JPY" << endl;
     cout << eUR << " EUR" << endl;
