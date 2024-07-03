@@ -1,3 +1,5 @@
+/* LANG: C++ */
+
 #include <iostream>
 #include <string>
 
