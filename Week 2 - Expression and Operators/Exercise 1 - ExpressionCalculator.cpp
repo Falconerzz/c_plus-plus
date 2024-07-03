@@ -12,6 +12,7 @@ int main() {
     cin >> c;
     cin >> d;
     cin >> e;
+    
     cout << "(A+B)*(E-D)  = " << (a+b)*(e-d) << endl;
     cout << "++D+C*E  = " << ++d+c*e << endl;
     cout << "(25+A)/C+B  = " << (25+a)/c+b << endl;
